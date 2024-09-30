@@ -29,6 +29,3 @@ I’d love to hear from you! If you have any questions or just want to chat, fee
 - Telegram: [@nimwitha](https://t.me/nimwitha)
 - Twitter: [@nimwitha](https://twitter.com/nimwitha)
 
-
-Thank you for stopping by, and I hope you enjoy exploring my site as much as I enjoyed creating it! 🎉
-
