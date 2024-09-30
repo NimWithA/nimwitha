@@ -10,7 +10,7 @@ I’m a passionate web developer with a love for creating beautiful and function
 
 Here’s a sneak peek at some of the projects I've been working on:
 
-- **Catelligence:** Meet my multi-functional AI bot! [Catelligence](https://t.me/CatelligenceBot) is designed to generate images, create text, and much more. It’s a fun and innovative way to explore the power of AI while having a great time. Whether you need a creative image or some inspiring text, Catelligence has got you covered!
+- **Catelligence:** Meet my multi-functional AI bot! Developed in collaboration with my talented friend [@mtalaeii](https://github.com/mtalaeii), Catelligence is designed to generate images, create text, and much more. You can check it out [here](https://t.me/CatelligenceBot)! It’s a fun and innovative way to explore the power of AI while having a great time. Whether you need a creative image or some inspiring text, Catelligence has got you covered!
 
 ## Skills & Technologies 💻
 
